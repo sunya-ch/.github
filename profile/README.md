@@ -3,7 +3,7 @@
 
 # 🙋‍♀️ A short introduction
 This is a place to incubate sustainable computing projects.
-# 🌈 Contribution guidelines - how can the community get involved?
+# 🌏🌲🌳 Contribution guidelines - how can the community get involved?
 
 We use [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
 # 👩‍💻 Useful resources 
