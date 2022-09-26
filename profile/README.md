@@ -2,7 +2,11 @@
 
 
 # 🙋‍♀️ A short introduction
-This is a place to incubate sustainable computing projects.
+
+KEPLER (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe energy related system stats and exports as Prometheus metrics 
+PEAKS (Power Efficiency Aware Kubernetes Scheduler) uses metrics exported by Kepler to help Kubernetes schedule to improve energy efficiency by placing Pods on optimal nodes.
+CLEVER (Container Level Energy-efficient VPA Recommender) uses metrics exported by Kepler to recommend Vertical Pod Autoscaler the resource profiles to improve energy efficiency by running workloads.
+
 # 🌏🌲🌳 Contribution guidelines - how can the community get involved?
 
 We use [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
