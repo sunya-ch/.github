@@ -17,6 +17,7 @@ We use [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-
  Doc:
  https://github.com/sustainable-computing-io/kepler-doc
 # 🍿 Fun facts 
-Coming soon
+Kepler project aims to help curb Kubernetes energy waste 
+https://www.techtarget.com/searchitoperations/feature/How-to-approach-sustainability-in-IT-operations
 
 
